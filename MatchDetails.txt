@@ -1,0 +1,6 @@
+2
+Virat 5 3 1 4 2 30
+Rohit 2 2 0 6 3 28
+2
+Bumrah 24 4 2
+Shami 30 5 3
